@@ -1,0 +1,248 @@
+{
+	"file_history":
+	[
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4169,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"next_update_check": 1717359300,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Manny Shiferaw - Real Estate Investor, Registered Nurse, and Tech Entrepreneur</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            margin: 0;\n            padding: 0;\n            background-color: #f4f4f4;\n            color: #333;\n        }\n        header {\n            background-color: #4CAF50;\n            color: white;\n            padding: 1em 0;\n            text-align: center;\n        }\n        nav {\n            display: flex;\n            justify-content: center;\n            background-color: #333;\n        }\n        nav a {\n            color: white;\n            padding: 14px 20px;\n            text-decoration: none;\n            text-align: center;\n        }\n        nav a:hover {\n            background-color: #ddd;\n            color: black;\n        }\n        section {\n            padding: 2em;\n            margin: 1em;\n            background-color: white;\n            border-radius: 8px;\n            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);\n        }\n        footer {\n            background-color: #333;\n            color: white;\n            text-align: center;\n            padding: 1em 0;\n            position: fixed;\n            width: 100%;\n            bottom: 0;\n        }\n        .portfolio img {\n            width: 100%;\n            height: auto;\n            border-radius: 8px;\n            margin-bottom: 1em;\n        }\n        .portfolio {\n            display: grid;\n            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));\n            gap: 1em;\n        }\n        .blog article {\n            margin-bottom: 2em;\n        }\n        .blog h2 {\n            color: #4CAF50;\n        }\n        .contact a {\n            color: #4CAF50;\n            text-decoration: none;\n        }\n        .contact a:hover {\n            text-decoration: underline;\n        }\n    </style>\n</head>\n<body>\n    <header>\n        <h1>Manny Shiferaw</h1>\n        <p>Real Estate Investor, Registered Nurse, and Tech Entrepreneur</p>\n    </header>\n    <nav>\n        <a href=\"#about\">About Me</a>\n        <a href=\"#portfolio\">Portfolio</a>\n        <a href=\"#blog\">Blog</a>\n        <a href=\"#contact\">Contact</a>\n    </nav>\n    <section id=\"about\">\n        <h2>About Me</h2>\n        <p>Owner of 200 units of multi-family real estate across North America, and budding founder of multiple tech startups.</p>\n    </section>\n    <section id=\"portfolio\">\n        <h2>Portfolio</h2>\n        <div class=\"portfolio\">\n            <div>\n                <img src=\"apartment1.jpg\" alt=\"Apartment 1\">\n                <p>Apartment 1 - City, State</p>\n            </div>\n            <div>\n                <img src=\"apartment2.jpg\" alt=\"Apartment 2\">\n                <p>Apartment 2 - City, State</p>\n            </div>\n            <!-- Add more apartments as needed -->\n        </div>\n    </section>\n    <section id=\"blog\">\n        <h2>Blog</h2>\n        <article>\n            <h3>Blog Post Title 1</h3>\n            <p>Summary of the blog post...</p>\n            <a href=\"#\">Read more...</a>\n        </article>\n        <article>\n            <h3>Blog Post Title 2</h3>\n            <p>Summary of the blog post...</p>\n            <a href=\"#\">Read more...</a>\n        </article>\n        <!-- Add more blog posts as needed -->\n    </section>\n    <section id=\"contact\">\n        <h2>Contact</h2>\n        <p>Email: <a href=\"mailto:manny.shiferaw@example.com\">manny.shiferaw@example.com</a></p>\n        <p>Real Estate Firm: <a href=\"https://www.yourrealestatefirm.com\" target=\"_blank\">www.yourrealestatefirm.com</a></p>\n    </section>\n    <footer>\n        <p>&copy; 2024 Manny Shiferaw</p>\n    </footer>\n</body>\n</html>",
+					"file": "/MyWebsite.html",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 3785,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"paste",
+							null,
+							"AQAAAAAAAAAAAAAAyQ4AAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/MyWebsite.html",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3785,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3785,
+										3785
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "YnBsaXN0MDDUAQIDBAUGByJYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlct0ICQoLDA0ODxAREhMUFRYXGBgYGxwdHh8YIV1OU1dpbmRvd0ZyYW1lV05TVGl0bGVfEB1OU1dpbmRvd0Z1bGxTY3JlZW5Xb3Jrc3BhY2VJRF5OU0lzRnVsbFNjcmVlbldOU0lzS2V5WE5TSXNNYWluXxAQTlNGaXJzdFJlc3BvbmRlcltOU0NsYXNzTmFtZV8QF05TRnVsbFNjcmVlbldpbmRvd0ZyYW1lW05TU3R5bGVNYXNrXxAQX05TV2luZG93TGF5b3V0c18QG05TRnVsbFNjcmVlblRpbGVGaWxsc1NjcmVlbl5OU1dpbmRvd051bWJlcoABgASAAwkJCYAAgAWAAhFAD4AGCREHwq8QECMkJSYnKCkyODk6QEZHSEtVJG51bGxfEB0zMjAgMTAwIDgwMCA2MjMgMCAwIDE0NDAgODc3IF8QGjAgMCAxNDQwIDkwMCAwIDAgMTQ0MCA5MDAgXxAkMUUxREVGNzQtNERDMi00MzFBLTgwMkQtRjkzNjA4RTkyREIzXk15V2Vic2l0ZS5odG1sWFBYV2luZG930yorLC0vMVdOUy5rZXlzWk5TLm9iamVjdHNWJGNsYXNzoS6AB6EwgAuAD9MzNCw1NjdfEBhOU1NjcmVlbkxheW91dFVVSURTdHJpbmdfEBJOU1NjcmVlbkxheW91dFNpemWACIAJgApfECRBQTM3MTJBNS0xN0NCLUY4N0MtNUE4NS00ODlGMEU1M0UyOTdbezE0NDAsIDkwMH3SOzw9PlokY2xhc3NuYW1lWCRjbGFzc2VzXk5TU2NyZWVuTGF5b3V0oj0/WE5TT2JqZWN000FCLENERV8QGU5TV2luZG93TGF5b3V0V2luZG93RnJhbWVfEB9OU1dpbmRvd0xheW91dFNjcmVlbkxheW91dEZyYW1lgAyADYAOXxAYe3szMjAsIDEwMH0sIHs4MDAsIDYyM319XxAVe3swLCAwfSwgezE0NDAsIDg3N3190js8SUpeTlNXaW5kb3dMYXlvdXSiST/SOzxMTVxOU0RpY3Rpb25hcnmiTD8ACAARABoAJAApADIANwBJAGQAcgB6AJoAqQCxALoAzQDZAPMA/wESATABPwFBAUMBRQFGAUcBSAFKAUwBTgFRAVMBVAFXAWoBcAGQAa0B1AHjAewB8wH7AgYCDQIPAhECEwIVAhcCHgI5Ak4CUAJSAlQCewKHAowClwKgAq8CsgK7AsIC3gMAAwIDBAMGAyEDOQM+A00DUANVA2IAAAAAAAACAQAAAAAAAABOAAAAAAAAAAAAAAAAAAADZQ",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
